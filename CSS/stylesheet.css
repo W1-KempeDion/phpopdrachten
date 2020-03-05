@@ -1,0 +1,31 @@
+hr {
+    height: 2px;
+    background-color: black
+}
+
+header {
+    text-align: right;
+    background-color: beige;
+}
+
+h1 {
+    padding: 15px;
+    text-align: right;
+    background-color: blue;
+    height: 40px;
+}
+
+aside {
+    background-color: skyblue;
+    width: 45vw;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
